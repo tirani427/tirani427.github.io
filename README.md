@@ -1,1 +1,4 @@
-# tirani427.github.io
+# Nice To Meet Ya, I'm Tia!
+## About Me
+
+Hello! My name is Tia Irani. I'm a rising fourth-year undergraduate at UC San Diego pursuing a B.S in Computer Science. I'm a first-generation immigrant to the United States, and I've lived in California for nearly fifteen years now. I began programming in fifth grade when I participated in the "Girls in Tech" summer program at eBay for two consecutive years. I furthered my interest in computer science by enrolling in the Computer Science Academy at Christopher High School, a four-year track where I was taught Java and Python, how to program a small robot to navigate a course, and was first introduced to cybersecurity standards and protective procedures. I enjoy working on team-based projects, and I enjoy reading books about different facets of the subject in order to gain new perspectives and ways to learn.
